@@ -7,6 +7,8 @@
 public class CallingMethodsInSameClass
 {
 	public static void main(String[] args) {
+      
+      // Don't choose this one either. :-)
 		printOne();
 		printOne();
 		printTwo();
