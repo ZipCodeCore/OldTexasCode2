@@ -2,7 +2,7 @@
 
 # Java Coding Samples 
 
-Various Java programs to illustrate various concepts from an old CS course at UTexas.edu.
+Various Java programs to illustrate various concepts from an old CS course at UTexas.edu. This java code is from the last century.
 
 *   A [Hello World!](CodeSamples/codeSamples/HelloWorld.java) Java program.
     
@@ -87,3 +87,10 @@ Various Java programs to illustrate various concepts from an old CS course at UT
 *   [SimpleWordCount](CodeSamples/codeSamples/SimpleWordCounter.java) \- Program demonstrating use of a map to count the frequency of words in a file.
     
 *   [WordCount](https://www.cs.utexas.edu/~scottm/cs314/CodeSamples/CodingSamples/WordCount.java) \- Program  that compares counting words in files using an ArrayList and a Map.
+
+
+Fork this repo to your account, clone your repo to your machine.
+Read all this code. Puzzle over what it does.
+Choose one of these code samples. Add a file with your name as the filename (ex: SteveJ.md),
+write me a brief paragraph that describes what your chosen code sample does and how it works.
+Add, commit, push and do a Pull Request.
