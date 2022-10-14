@@ -7,7 +7,8 @@ Various Java programs to illustrate various concepts from an old CS course at UT
 
 Fork this repo to your account, clone your repo to your machine.
 
-Read all this code. Puzzle over what it does.
+Read all this code. Puzzle over what it does. Pick one to be able to explain it to the cohort, and if you pick HelloWorld, well, you deserve
+the teasing your going to receive.
 
 Choose one of these code samples. Add a file with your name as the filename (ex: SteveJ.md),
 write me a brief paragraph that describes what your chosen code sample does and how it works.
