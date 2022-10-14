@@ -16,7 +16,7 @@ While browsing this repo, tap the "."
 
 And *voila*, you will be put into a vscode session. 
 
-Now, add a file, with your name as the title. Make it an MD file. (e.g. **MahmoudChen.md**) and commit it to your main branch. (Use the vscode in the browser for this).
+Now, add a file, with your name as the title. Make it an MD file. (e.g. **MahmoudBjornChen.md**) and commit it to your main branch. (Use the vscode in the browser for this).
 
 *   A [Hello World!](CodeSamples/codeSamples/HelloWorld.java) Java program.
     
