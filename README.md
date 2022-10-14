@@ -10,10 +10,13 @@ Fork this repo to your account, clone your repo to your machine.
 Read all this code. Puzzle over what it does. Pick one to be able to explain it to the cohort, and if you pick HelloWorld or a super simple one, 
 well, *you deserve the teasing you are going to receive*.
 
-Choose one of these code samples. Add a file with your name as the filename (ex: SteveJ.md),
-write me a brief paragraph that describes what your chosen code sample does and how it works.
+Fork this repo. Switch to your copy of it. 
 
-Add, commit, push and do a Pull Request.
+While browsing this repo, tap the "." 
+
+And *voila*, you will be put into a vscode session. 
+
+Now, add a file, with your name as the title. Make it an MD file. (e.g. **MahmoudChen.md**) and commit it to your main branch. (Use the vscode in the browser for this).
 
 *   A [Hello World!](CodeSamples/codeSamples/HelloWorld.java) Java program.
     
